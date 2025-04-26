@@ -1,5 +1,3 @@
-# FaceAttend: Facial Recognition Attendance Management System
-
 # 🔍 FaceAttend: Facial Recognition Attendance Management System
 
 ## 📋 Introduction
