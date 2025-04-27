@@ -70,8 +70,9 @@ python register.py --name "John Doe" --id "EMP123"
 ```
 
 ### 🏁 Start Attendance System
+
 ```
-python main.py
+streamlit run app.py
 ```
 
 ### 📃 Generate Reports
